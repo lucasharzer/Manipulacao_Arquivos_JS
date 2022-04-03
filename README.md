@@ -1,3 +1,4 @@
+
 # Definição 
 
 Manipulação de pastas e arquivos em JavaScript, com todas as funcionalidades específicados no arquivo Funcionlidades.txt.
@@ -16,10 +17,10 @@ npm i
 
 - Pasta
 <span>
-     <img src="">
+     <img src="https://user-images.githubusercontent.com/85804895/161441551-263e128b-4254-438f-a89b-bf44d8722ce1.gif">
 </span>
 
 - Arquivo
 <span>
-     <img src="">
+     <img src="https://user-images.githubusercontent.com/85804895/161441615-e0123cec-76fc-4f06-ace3-dfe31329a400.gif">
 </span>
